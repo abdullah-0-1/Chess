@@ -1,6 +1,6 @@
 # ♟️ Chess Variants Collection
 
-This repository contains three versions of a complete chess game, developed across different stages of my university coursework. Each version implements **all standard chess rules**, including castling, en passant, pawn promotion, and check/checkmate detection.
+This repository contains three versions of a complete chess game, developed across different stages of my university coursework. Each version implements **all standard chess rules**, including castling, pawn promotion, and check/checkmate detection.
 
 ## 📁 Project Structure
 
