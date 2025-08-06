@@ -23,6 +23,9 @@ This repository contains three versions of a complete chess game, developed acro
 - C++ (All versions)
 - Raylib (GUI version)
 
+![GUI Chess Screenshot](03_GUI_Chess_Raylib/screenshot/ss.png)
+
+
 ---
 
 ## 📌 Note
